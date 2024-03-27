@@ -1,4 +1,4 @@
-# Class Component and State Part 2
+### Adding Search and delete functionality through React Class Component and State
 
 - Searchable Users List
   - Searching User
